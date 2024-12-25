@@ -1,7 +1,8 @@
 name: custom_field_package
-description: "A new Flutter package project."
+description: "A Flutter package to create customizable text input fields with enhanced validation."
 version: 0.0.1
 repository: https://github.com/Aritesh/custom_field_uk
+
 
 environment:
   sdk: ^3.6.0
